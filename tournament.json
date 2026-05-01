@@ -92,8 +92,8 @@
       "winnerId": null,
       "isActiveMatch": false,
       "scheduledStart": "2026-05-02T04:00",
-      "vodUrl": null,
-      "isFinished": false,
+      "vodUrl": "https://www.youtube.com/watch?v=48frHWFJvGs",
+      "isFinished": true,
       "order": 1
     },
     {
@@ -473,5 +473,5 @@
   "globalSettings": {
     "casterStreamUrl": "https://www.twitch.tv/tamae_"
   },
-  "updatedAt": "2026-05-01T21:03:49.415Z"
+  "updatedAt": "2026-05-01T21:04:02.852Z"
 }
