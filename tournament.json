@@ -403,7 +403,98 @@
       "order": 27
     }
   ],
-  "phase2Matches": [],
+  "phase2Matches": [
+    {
+      "id": "p2-wb-sf1",
+      "round": "WB_SF",
+      "matchIndex": 0,
+      "player1Id": "player-1",
+      "player2Id": "player-4",
+      "winnerId": null,
+      "player1MapWins": 0,
+      "player2MapWins": 0,
+      "isActiveMatch": false,
+      "scheduledStart": null,
+      "player1StreamUrl": null,
+      "player2StreamUrl": null,
+      "casterStreamUrl": null
+    },
+    {
+      "id": "p2-wb-sf2",
+      "round": "WB_SF",
+      "matchIndex": 1,
+      "player1Id": "player-2",
+      "player2Id": "player-3",
+      "winnerId": null,
+      "player1MapWins": 0,
+      "player2MapWins": 0,
+      "isActiveMatch": false,
+      "scheduledStart": null,
+      "player1StreamUrl": null,
+      "player2StreamUrl": null,
+      "casterStreamUrl": null
+    },
+    {
+      "id": "p2-wb-f",
+      "round": "WB_F",
+      "matchIndex": 0,
+      "player1Id": null,
+      "player2Id": null,
+      "winnerId": null,
+      "player1MapWins": 0,
+      "player2MapWins": 0,
+      "isActiveMatch": false,
+      "scheduledStart": null,
+      "player1StreamUrl": null,
+      "player2StreamUrl": null,
+      "casterStreamUrl": null
+    },
+    {
+      "id": "p2-lb-r1",
+      "round": "LB_R1",
+      "matchIndex": 0,
+      "player1Id": null,
+      "player2Id": null,
+      "winnerId": null,
+      "player1MapWins": 0,
+      "player2MapWins": 0,
+      "isActiveMatch": false,
+      "scheduledStart": null,
+      "player1StreamUrl": null,
+      "player2StreamUrl": null,
+      "casterStreamUrl": null
+    },
+    {
+      "id": "p2-lb-f",
+      "round": "LB_F",
+      "matchIndex": 0,
+      "player1Id": null,
+      "player2Id": null,
+      "winnerId": null,
+      "player1MapWins": 0,
+      "player2MapWins": 0,
+      "isActiveMatch": false,
+      "scheduledStart": null,
+      "player1StreamUrl": null,
+      "player2StreamUrl": null,
+      "casterStreamUrl": null
+    },
+    {
+      "id": "p2-gf",
+      "round": "GF",
+      "matchIndex": 0,
+      "player1Id": null,
+      "player2Id": null,
+      "winnerId": null,
+      "player1MapWins": 0,
+      "player2MapWins": 0,
+      "isActiveMatch": false,
+      "scheduledStart": null,
+      "player1StreamUrl": null,
+      "player2StreamUrl": null,
+      "casterStreamUrl": null
+    }
+  ],
   "phase": "phase1",
-  "updatedAt": "2026-05-01T18:52:17.087Z"
+  "updatedAt": "2026-05-01T18:52:56.401Z"
 }
