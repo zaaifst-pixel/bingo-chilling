@@ -75,7 +75,7 @@
       "scheduledStart": null,
       "player1StreamUrl": null,
       "player2StreamUrl": null,
-      "casterStreamUrl": null,
+      "casterStreamUrl": "https://www.twitch.tv/tamae_",
       "order": 0
     },
     {
@@ -87,7 +87,7 @@
       "scheduledStart": null,
       "player1StreamUrl": null,
       "player2StreamUrl": null,
-      "casterStreamUrl": null,
+      "casterStreamUrl": "https://www.twitch.tv/tamae_",
       "order": 1
     },
     {
@@ -496,5 +496,5 @@
     }
   ],
   "phase": "phase1",
-  "updatedAt": "2026-05-01T18:52:56.401Z"
+  "updatedAt": "2026-05-01T18:54:06.063Z"
 }
