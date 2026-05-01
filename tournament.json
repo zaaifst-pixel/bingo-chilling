@@ -71,7 +71,7 @@
       "player1Id": "player-1",
       "player2Id": "player-2",
       "winnerId": null,
-      "isActiveMatch": false,
+      "isActiveMatch": true,
       "scheduledStart": null,
       "player1StreamUrl": null,
       "player2StreamUrl": null,
@@ -84,7 +84,7 @@
       "player2Id": "player-3",
       "winnerId": null,
       "isActiveMatch": false,
-      "scheduledStart": null,
+      "scheduledStart": "2026-05-03T17:00",
       "player1StreamUrl": null,
       "player2StreamUrl": null,
       "casterStreamUrl": "https://www.twitch.tv/tamae_",
@@ -496,5 +496,5 @@
     }
   ],
   "phase": "phase1",
-  "updatedAt": "2026-05-01T18:55:21.562Z"
+  "updatedAt": "2026-05-01T19:46:19.646Z"
 }
