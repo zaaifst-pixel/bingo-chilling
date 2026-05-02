@@ -81,7 +81,7 @@
       "winnerId": "player-1",
       "isActiveMatch": false,
       "scheduledStart": null,
-      "vodUrl": null,
+      "vodUrl": "https://www.youtube.com/watch?v=48frHWFJvGs",
       "isFinished": true,
       "order": 0,
       "isManuallyOrdered": false
@@ -105,7 +105,7 @@
       "winnerId": "player-4",
       "isActiveMatch": false,
       "scheduledStart": "2026-05-02T23:59",
-      "vodUrl": null,
+      "vodUrl": "https://www.youtube.com/watch?v=48frHWFJvGs",
       "isFinished": true,
       "order": 2,
       "isManuallyOrdered": false
@@ -117,7 +117,7 @@
       "winnerId": "player-5",
       "isActiveMatch": false,
       "scheduledStart": null,
-      "vodUrl": null,
+      "vodUrl": "https://www.youtube.com/watch?v=48frHWFJvGs",
       "isFinished": true,
       "order": 3,
       "isManuallyOrdered": false
@@ -129,7 +129,7 @@
       "winnerId": "player-1",
       "isActiveMatch": false,
       "scheduledStart": "2026-05-03T14:55",
-      "vodUrl": null,
+      "vodUrl": "https://www.youtube.com/watch?v=48frHWFJvGs",
       "isFinished": true,
       "order": 4,
       "isManuallyOrdered": false
@@ -141,7 +141,7 @@
       "winnerId": "player-1",
       "isActiveMatch": false,
       "scheduledStart": null,
-      "vodUrl": null,
+      "vodUrl": "https://www.youtube.com/watch?v=48frHWFJvGs",
       "isFinished": true,
       "order": 5,
       "isManuallyOrdered": false
@@ -505,5 +505,5 @@
     "sponsors": [],
     "bingoCards": []
   },
-  "updatedAt": "2026-05-02T21:31:27.611Z"
+  "updatedAt": "2026-05-02T21:32:24.605Z"
 }
