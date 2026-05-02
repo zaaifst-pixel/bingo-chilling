@@ -79,11 +79,12 @@
       "player1Id": "player-1",
       "player2Id": "player-2",
       "winnerId": "player-1",
-      "isActiveMatch": true,
+      "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
-      "isFinished": false,
-      "order": 0
+      "isFinished": true,
+      "order": 0,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_0_2",
@@ -94,7 +95,8 @@
       "scheduledStart": null,
       "vodUrl": "https://www.youtube.com/watch?v=48frHWFJvGs",
       "isFinished": true,
-      "order": 1
+      "order": 1,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_0_3",
@@ -105,7 +107,8 @@
       "scheduledStart": "2026-05-02T23:59",
       "vodUrl": null,
       "isFinished": true,
-      "order": 2
+      "order": 2,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_0_4",
@@ -115,8 +118,9 @@
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
-      "isFinished": false,
-      "order": 3
+      "isFinished": true,
+      "order": 3,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_0_5",
@@ -126,8 +130,9 @@
       "isActiveMatch": false,
       "scheduledStart": "2026-05-03T14:55",
       "vodUrl": null,
-      "isFinished": false,
-      "order": 4
+      "isFinished": true,
+      "order": 4,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_0_6",
@@ -137,8 +142,9 @@
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
-      "isFinished": false,
-      "order": 5
+      "isFinished": true,
+      "order": 5,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_0_7",
@@ -146,10 +152,11 @@
       "player2Id": "player-8",
       "winnerId": null,
       "isActiveMatch": false,
-      "scheduledStart": null,
+      "scheduledStart": "2026-05-03T14:59",
       "vodUrl": null,
       "isFinished": false,
-      "order": 6
+      "order": 6,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_1_2",
@@ -160,7 +167,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 7
+      "order": 7,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_1_3",
@@ -171,7 +179,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 8
+      "order": 8,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_1_4",
@@ -182,7 +191,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 9
+      "order": 9,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_1_5",
@@ -193,7 +203,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 10
+      "order": 10,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_1_6",
@@ -204,7 +215,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 11
+      "order": 11,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_1_7",
@@ -215,7 +227,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 12
+      "order": 12,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_2_3",
@@ -226,7 +239,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 13
+      "order": 13,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_2_4",
@@ -237,7 +251,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 14
+      "order": 14,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_2_5",
@@ -248,7 +263,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 15
+      "order": 15,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_2_6",
@@ -259,7 +275,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 16
+      "order": 16,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_2_7",
@@ -270,7 +287,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 17
+      "order": 17,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_3_4",
@@ -281,7 +299,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 18
+      "order": 18,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_3_5",
@@ -292,7 +311,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 19
+      "order": 19,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_3_6",
@@ -303,7 +323,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 20
+      "order": 20,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_3_7",
@@ -314,7 +335,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 21
+      "order": 21,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_4_5",
@@ -325,7 +347,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 22
+      "order": 22,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_4_6",
@@ -336,7 +359,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 23
+      "order": 23,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_4_7",
@@ -347,7 +371,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 24
+      "order": 24,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_5_6",
@@ -358,7 +383,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 25
+      "order": 25,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_5_7",
@@ -369,7 +395,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 26
+      "order": 26,
+      "isManuallyOrdered": false
     },
     {
       "id": "p1m_6_7",
@@ -380,7 +407,8 @@
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
-      "order": 27
+      "order": 27,
+      "isManuallyOrdered": false
     }
   ],
   "phase2Matches": [
@@ -471,7 +499,11 @@
   ],
   "phase": "phase1",
   "globalSettings": {
-    "casterStreamUrl": "https://www.twitch.tv/tamae_"
+    "casterStreamUrl": "https://www.twitch.tv/tamae_",
+    "rulesText": null,
+    "bingoCardsText": null,
+    "sponsors": [],
+    "bingoCards": []
   },
-  "updatedAt": "2026-05-02T21:24:01.685Z"
+  "updatedAt": "2026-05-02T21:30:46.921Z"
 }
