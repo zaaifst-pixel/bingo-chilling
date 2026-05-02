@@ -102,7 +102,7 @@
       "player2Id": "player-4",
       "winnerId": null,
       "isActiveMatch": false,
-      "scheduledStart": null,
+      "scheduledStart": "2026-05-02T23:59",
       "vodUrl": null,
       "isFinished": false,
       "order": 2
@@ -473,5 +473,5 @@
   "globalSettings": {
     "casterStreamUrl": "https://www.twitch.tv/tamae_"
   },
-  "updatedAt": "2026-05-02T17:48:01.050Z"
+  "updatedAt": "2026-05-02T17:48:20.154Z"
 }
