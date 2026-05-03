@@ -200,7 +200,7 @@
       "player2Id": "player-6",
       "winnerId": null,
       "isActiveMatch": false,
-      "scheduledStart": null,
+      "scheduledStart": "2026-05-04T00:40",
       "vodUrl": null,
       "isFinished": false,
       "order": 10,
@@ -609,5 +609,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-03T22:35:32.250Z"
+  "updatedAt": "2026-05-03T22:36:19.155Z"
 }
