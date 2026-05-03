@@ -461,7 +461,7 @@
         "https://www.youtube.com/watch?v=MJYclqTawdk",
         "https://www.youtube.com/watch?v=MJYclqTawdk"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "id": "p2-wb-sf2",
@@ -479,7 +479,7 @@
         "https://www.youtube.com/watch?v=MJYclqTawdk",
         "https://www.youtube.com/watch?v=MJYclqTawdk"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "id": "p2-wb-f",
@@ -496,7 +496,7 @@
       "vodUrls": [
         "https://www.youtube.com/watch?v=MJYclqTawdk"
       ],
-      "isFinished": true
+      "isFinished": false
     },
     {
       "id": "p2-lb-r1",
@@ -510,7 +510,7 @@
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
-      "isFinished": true
+      "isFinished": false
     },
     {
       "id": "p2-lb-f",
@@ -524,7 +524,7 @@
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
-      "isFinished": true
+      "isFinished": false
     },
     {
       "id": "p2-gf",
@@ -535,7 +535,7 @@
       "winnerId": null,
       "player1MapWins": 1,
       "player2MapWins": 0,
-      "isActiveMatch": true,
+      "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false
@@ -641,5 +641,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-03T22:43:49.509Z"
+  "updatedAt": "2026-05-03T22:45:26.823Z"
 }
