@@ -411,6 +411,30 @@
       "isManuallyOrdered": false
     }
   ],
+  "phase1Showmatches": [
+    {
+      "id": "sm_moqcovxi_xiv6",
+      "title": "SHOWMATCH Ręce i Mózg 2v2",
+      "playerIds": [
+        "player-1",
+        "player-5",
+        "player-7",
+        "player-3"
+      ],
+      "teamAssignments": {
+        "player-5": "A",
+        "player-1": "A",
+        "player-3": "B",
+        "player-7": "B"
+      },
+      "winnerId": null,
+      "isActiveMatch": false,
+      "scheduledStart": "2026-05-04T00:45",
+      "vodUrl": null,
+      "isFinished": false,
+      "order": 0
+    }
+  ],
   "phase2Matches": [
     {
       "id": "p2-wb-sf1",
@@ -609,5 +633,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-03T22:36:19.155Z"
+  "updatedAt": "2026-05-03T22:37:22.887Z"
 }
