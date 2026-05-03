@@ -150,11 +150,11 @@
       "id": "p1m_0_7",
       "player1Id": "player-1",
       "player2Id": "player-8",
-      "winnerId": null,
+      "winnerId": "player-8",
       "isActiveMatch": false,
       "scheduledStart": "2026-05-03T14:59",
       "vodUrl": null,
-      "isFinished": false,
+      "isFinished": true,
       "order": 6,
       "isManuallyOrdered": false
     },
@@ -162,11 +162,11 @@
       "id": "p1m_1_2",
       "player1Id": "player-2",
       "player2Id": "player-3",
-      "winnerId": null,
+      "winnerId": "player-3",
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
-      "isFinished": false,
+      "isFinished": true,
       "order": 7,
       "isManuallyOrdered": false
     },
@@ -174,7 +174,7 @@
       "id": "p1m_1_3",
       "player1Id": "player-2",
       "player2Id": "player-4",
-      "winnerId": null,
+      "winnerId": "player-4",
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
@@ -186,7 +186,7 @@
       "id": "p1m_1_4",
       "player1Id": "player-2",
       "player2Id": "player-5",
-      "winnerId": null,
+      "winnerId": "player-5",
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
@@ -610,5 +610,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-03T12:28:13.718Z"
+  "updatedAt": "2026-05-03T12:28:54.809Z"
 }
