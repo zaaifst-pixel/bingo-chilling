@@ -411,93 +411,106 @@
       "isManuallyOrdered": false
     }
   ],
+  "phase1Showmatches": [],
   "phase2Matches": [
     {
       "id": "p2-wb-sf1",
       "round": "WB_SF",
       "matchIndex": 0,
       "player1Id": "player-1",
-      "player2Id": "player-4",
-      "winnerId": null,
-      "player1MapWins": 0,
+      "player2Id": "player-8",
+      "winnerId": "player-1",
+      "player1MapWins": 2,
       "player2MapWins": 0,
       "isActiveMatch": false,
       "scheduledStart": null,
-      "vodUrl": null,
-      "isFinished": false
+      "vodUrl": "https://www.youtube.com/watch?v=MJYclqTawdk",
+      "vodUrls": [
+        "https://www.youtube.com/watch?v=MJYclqTawdk",
+        "https://www.youtube.com/watch?v=MJYclqTawdk",
+        "https://www.youtube.com/watch?v=MJYclqTawdk"
+      ],
+      "isFinished": true
     },
     {
       "id": "p2-wb-sf2",
       "round": "WB_SF",
       "matchIndex": 1,
-      "player1Id": "player-2",
-      "player2Id": "player-3",
-      "winnerId": null,
-      "player1MapWins": 0,
+      "player1Id": "player-4",
+      "player2Id": "player-5",
+      "winnerId": "player-4",
+      "player1MapWins": 2,
       "player2MapWins": 0,
       "isActiveMatch": false,
       "scheduledStart": null,
-      "vodUrl": null,
-      "isFinished": false
+      "vodUrl": "https://www.youtube.com/watch?v=MJYclqTawdk",
+      "vodUrls": [
+        "https://www.youtube.com/watch?v=MJYclqTawdk",
+        "https://www.youtube.com/watch?v=MJYclqTawdk"
+      ],
+      "isFinished": true
     },
     {
       "id": "p2-wb-f",
       "round": "WB_F",
       "matchIndex": 0,
-      "player1Id": null,
-      "player2Id": null,
-      "winnerId": null,
+      "player1Id": "player-1",
+      "player2Id": "player-4",
+      "winnerId": "player-4",
       "player1MapWins": 0,
-      "player2MapWins": 0,
+      "player2MapWins": 2,
       "isActiveMatch": false,
       "scheduledStart": null,
-      "vodUrl": null,
-      "isFinished": false
+      "vodUrl": "https://www.youtube.com/watch?v=MJYclqTawdk",
+      "vodUrls": [
+        "https://www.youtube.com/watch?v=MJYclqTawdk"
+      ],
+      "isFinished": true
     },
     {
       "id": "p2-lb-r1",
       "round": "LB_R1",
       "matchIndex": 0,
-      "player1Id": null,
-      "player2Id": null,
-      "winnerId": null,
+      "player1Id": "player-8",
+      "player2Id": "player-5",
+      "winnerId": "player-5",
       "player1MapWins": 0,
-      "player2MapWins": 0,
+      "player2MapWins": 2,
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": "p2-lb-f",
       "round": "LB_F",
       "matchIndex": 0,
-      "player1Id": null,
-      "player2Id": null,
-      "winnerId": null,
+      "player1Id": "player-5",
+      "player2Id": "player-1",
+      "winnerId": "player-1",
       "player1MapWins": 0,
-      "player2MapWins": 0,
+      "player2MapWins": 2,
       "isActiveMatch": false,
       "scheduledStart": null,
       "vodUrl": null,
-      "isFinished": false
+      "isFinished": true
     },
     {
       "id": "p2-gf",
       "round": "GF",
       "matchIndex": 0,
-      "player1Id": null,
-      "player2Id": null,
+      "player1Id": "player-4",
+      "player2Id": "player-1",
       "winnerId": null,
-      "player1MapWins": 0,
+      "player1MapWins": 1,
       "player2MapWins": 0,
-      "isActiveMatch": false,
+      "isActiveMatch": true,
       "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false
     }
   ],
-  "phase": "phase1",
+  "phase": "phase2",
   "globalSettings": {
     "casterStreamUrl": "https://www.twitch.tv/tamae_",
     "rulesText": null,
@@ -597,5 +610,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-03T11:34:50.558Z"
+  "updatedAt": "2026-05-03T12:28:13.718Z"
 }
