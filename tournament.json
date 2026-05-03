@@ -413,23 +413,31 @@
   ],
   "phase1Showmatches": [
     {
-      "id": "sm_moqcovxi_xiv6",
-      "title": "SHOWMATCH Ręce i Mózg 2v2",
+      "id": "sm_moqcx0l8_r0r1",
+      "title": "jd fighters",
       "playerIds": [
         "player-1",
-        "player-5",
+        "player-2",
+        "player-3",
+        "player-4",
         "player-7",
-        "player-3"
+        "player-6",
+        "player-5",
+        "player-8"
       ],
       "teamAssignments": {
-        "player-5": "A",
-        "player-1": "A",
-        "player-3": "B",
-        "player-7": "B"
+        "player-5": "B",
+        "player-1": "B",
+        "player-2": "B",
+        "player-6": "B",
+        "player-3": "A",
+        "player-7": "A",
+        "player-8": "A",
+        "player-4": "A"
       },
       "winnerId": null,
       "isActiveMatch": false,
-      "scheduledStart": "2026-05-04T00:45",
+      "scheduledStart": null,
       "vodUrl": null,
       "isFinished": false,
       "order": 0
@@ -633,5 +641,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-03T22:37:22.887Z"
+  "updatedAt": "2026-05-03T22:43:49.509Z"
 }
