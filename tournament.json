@@ -503,7 +503,19 @@
     "rulesText": null,
     "bingoCardsText": null,
     "sponsors": [],
-    "bingoCards": []
+    "bingoCards": [],
+    "bingoPool": [],
+    "bingoSameForAll": false,
+    "bingoBoard": null,
+    "clips": {
+      "featured": [
+        "https://www.twitch.tv/tamae_/clip/BashfulPlacidHornetTF2John-fWBuKFdfKmqfdAON?filter=clips&range=7d",
+        "https://www.twitch.tv/tamae_/clip/HotBashfulHumanPeanutButterJellyTime-ujzTFUR7ltqCWP91?filter=clips&range=7d"
+      ],
+      "all": [
+        "https://www.twitch.tv/tamae_/clip/RacyPoliteGuanacoArgieB8-oTeKzNVIU4ZL2Wdk?filter=clips&range=7d"
+      ]
+    }
   },
-  "updatedAt": "2026-05-02T22:15:13.990Z"
+  "updatedAt": "2026-05-03T09:58:33.817Z"
 }
