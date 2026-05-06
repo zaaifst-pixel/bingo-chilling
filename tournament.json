@@ -411,38 +411,7 @@
       "isManuallyOrdered": false
     }
   ],
-  "phase1Showmatches": [
-    {
-      "id": "sm_moqcx0l8_r0r1",
-      "title": "jd fighters",
-      "playerIds": [
-        "player-1",
-        "player-2",
-        "player-3",
-        "player-4",
-        "player-7",
-        "player-6",
-        "player-5",
-        "player-8"
-      ],
-      "teamAssignments": {
-        "player-5": "B",
-        "player-1": "B",
-        "player-2": "B",
-        "player-6": "B",
-        "player-3": "A",
-        "player-7": "A",
-        "player-8": "A",
-        "player-4": "A"
-      },
-      "winnerId": null,
-      "isActiveMatch": false,
-      "scheduledStart": null,
-      "vodUrl": null,
-      "isFinished": false,
-      "order": 0
-    }
-  ],
+  "phase1Showmatches": [],
   "phase2Matches": [
     {
       "id": "p2-wb-sf1",
@@ -641,5 +610,5 @@
       }
     ]
   },
-  "updatedAt": "2026-05-03T22:46:21.897Z"
+  "updatedAt": "2026-05-06T18:33:48.393Z"
 }
